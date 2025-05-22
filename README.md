@@ -6,8 +6,11 @@ Valex tarafından geliştirilen script ve güvenlik araçları.
 Valex Phyton,Html,Css,Js,Kt dilleri üzerinde çalışmalar yapan bir yazılımcıdır.
 Ayrıca Phyton ile siber araçlarda üretmektedir.
 
-# Fotoğraflar
+# Tool Giriş Kısmı
 ![Tool Giriş](Tool.jpg)
+
+# Tool MENÜ Kısmı
+
 ![Tool Menü](ToolMenu.jpg)
 
 
