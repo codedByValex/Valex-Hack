@@ -16,6 +16,10 @@ Ayrıca Phyton ile siber araçlarda üretmektedir.
 
 # Tiktok 
 
-[Tiktok](https://www.tiktok.com/@valex863)
+[Tiktok:Valex863](https://www.tiktok.com/@valex863)
+
+
+
+
 
 CodeByValex
